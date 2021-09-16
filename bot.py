@@ -22,8 +22,8 @@ dp = Dispatcher(bot)
 ###USE YOUR ROTATING PROXY### NEED HQ PROXIES ELSE WONT WORK UPDATE THIS FILED
 """
 proxy = {
-    "http": "http://deplaobr-rotate:ocjxpp5iucgk@p.webshare.io:80/",
-    "https": "http://deplaobr-rotate:ocjxpp5iucgk@p.webshare.io:80/",
+    "http": "http://eboluund-rotate:56pvdyqq67xx@p.webshare.io:80/",
+    "https": "http://eboluund-rotate:56pvdyqq67xx@p.webshare.io:80/",
 } 
 """
 session = requests.session()
@@ -40,7 +40,7 @@ rnd = ''.join(random.choices(string.ascii_lowercase +
 async def helpstr(message: types.Message):
     await message.answer_chat_action("typing")
     await message.reply(
-        "Hello how to use <code>/chk cc/mm/yy/cvv</code>\nREPO <a href='https://github.com/xbinner18/Mrbannker'>Here</a>"
+        "Hello how to use <code>/chk cc/mm/yy/cvv</code>\nREPO."
     )
     
 
@@ -58,7 +58,7 @@ async def tv(message: types.Message):
         )
     payload = {
         "username": email,
-        "password": password,
+        "password": pass,
         "withUserDetails": "true",
         "v": "web-1.0"
     }
