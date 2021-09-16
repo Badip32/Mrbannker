@@ -57,8 +57,8 @@ async def tv(message: types.Message):
             "<code>Send ac /tv email:pass.</code>"
         )
     payload = {
-        "username": email,
-        "password": pass,
+        "username": mdjkxhd@gmail.com,
+        "password": t410849bB.,
         "withUserDetails": "true",
         "v": "web-1.0"
     }
