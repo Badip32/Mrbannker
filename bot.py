@@ -40,7 +40,10 @@ rnd = ''.join(random.choices(string.ascii_lowercase +
 async def helpstr(message: types.Message):
     await message.answer_chat_action("typing")
     await message.reply(
-        "Hello how to use <code>/chk cc/mm/yy/cvv</code>\nREPO."
+        "Hello, that is how to use my commands:- Check CC » <code>/chk cc/mm/yy/cvv</code>"
+    "To check TunnelBear Account, use this commands:- Check TunnelBear ➟ <code>/tv email:pass</code>"
+
+
     )
     
 
@@ -57,8 +60,8 @@ async def tv(message: types.Message):
             "<code>Send ac /tv email:pass.</code>"
         )
     payload = {
-        "username": mdjkxhd@gmail.com,
-        "password": t410849B,
+        "username": email,
+        "password": password,
         "withUserDetails": "true",
         "v": "web-1.0"
     }
