@@ -24,6 +24,45 @@ dp = Dispatcher(bot)
 proxy = {
     "http": "http://eboluund-rotate:56pvdyqq67xx@p.webshare.io:80/",
     "https": "http://eboluund-rotate:56pvdyqq67xx@p.webshare.io:80/",
+    "http": "http://eboluund:56pvdyqq67xx@209.127.191.180:9279/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.95.96.132:8691/",
+
+"http”: "http://eboluund:56pvdyqq67xx@45.95.96.187:8746/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.95.96.237:8796/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.136.228.154:6209/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.94.47.66:8110/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.94.47.108:8152/",
+
+"http": "http://eboluund:56pvdyqq67xx@193.8.56.119:9183/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.95.99.226:7786/",
+
+"http": "http://eboluund:56pvdyqq67xx@45.95.99.20:7580/",
+
+"https": "https://eboluund:56pvdyqq67xx@209.127.191.180:9279/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.95.96.132:8691/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.95.96.187:8746/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.95.96.237:8796/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.136.228.154:6209/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.94.47.66:8110/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.94.47.108:8152/",
+
+"https": "https://eboluund:56pvdyqq67xx@193.8.56.119:9183/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.95.99.226:7786/",
+
+"https": "https://eboluund:56pvdyqq67xx@45.95.99.20:7580/",
 } 
 """
 session = requests.session()
